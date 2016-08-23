@@ -1,0 +1,18 @@
+{
+  "name": "vefa",
+  "description": "Vefa's cli",
+  "version": "0.1.0",
+  "author": "Wellfire Interactive",
+  "license": "MIT License",
+  "private": false,
+  "repository": "vefari/vefa",
+  "bugs": "https://github.com/vefari/vefa/issues",
+  "main": "lib",
+  "bin": {
+    "vefa": "./bin/vefa"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "vefa-static": "vefari/vefa-static"
+  }
+}
