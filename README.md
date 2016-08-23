@@ -1,2 +1,2 @@
 # vefa
-Static website builder/scaffolding based on Webpack
+CLI for vefa-static project
